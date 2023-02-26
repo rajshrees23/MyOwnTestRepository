@@ -28,7 +28,7 @@ public class For_While_Do_Loop_Demo {
 			while( start <=3) {
 				System.out.println( " I am from "+ place);
 				start++;
-			}
+			} 
 			
 	//Do Loop		
 			System.out.println("Starts Do Loop");
