@@ -22,8 +22,8 @@ public class For_While_Do_Loop_Demo {
 			}
 			System.out.println("Ends ");
 			
-			//
-			String place = "Canada";
+			//changed location
+			String place = "Queens";
 			int start = 1;
 			while( start <=3) {
 				System.out.println( " I am from "+ place);
