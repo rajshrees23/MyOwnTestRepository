@@ -36,7 +36,7 @@ public class For_While_Do_Loop_Demo {
 			int j = 1; String d = "Canada";
 			do {
 				System.out.println( " I am from "+ d);
-				j++;
+				j++; 
 			}
 			while (j<= 3);
 			System.out.println("Ends ");

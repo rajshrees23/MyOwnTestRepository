@@ -7,7 +7,7 @@ public class ComparisonOperator {
 		String actual = "Google";
 		String expected = "google";
 		/* ==
-		 * !=
+		 * != //Not equal to
 		 * >
 		 * <
 		 * >=

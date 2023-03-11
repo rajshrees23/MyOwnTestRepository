@@ -28,7 +28,7 @@ public class JavaOperators {
 		System.out.println("Division result is " + result);//2
 		result = a % b; // addition
 		System.out.println("Modulus result is " + result);//0
-		System.out.println("Incrementral a  is " + a++);// this will not work this way
+		System.out.println("Incremental a  is " + a++);// this will not work this way
 		System.out.println("Decremental a  is " + a--);// this will not work this way
 		
 	
